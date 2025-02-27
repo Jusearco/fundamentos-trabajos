@@ -13,4 +13,5 @@ w = factorial(numero)
 
 
 print("el resultado es", w)
+print(2+w)
 print(w)
